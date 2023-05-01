@@ -1,8 +1,25 @@
 {
   "name": "boilerplate-libraries-automation",
-  "description": "Boilerplate repository for libraries creation with versioning manager automation.",
   "version": "0.0.0",
+  "description": "Boilerplate repository for libraries creation with versioning manager automation.",
   "main": "index.js",
   "author": "Bruno Futema <bruno.futema@outlook.com>",
-  "license": "MIT"
+  "private": false,
+  "keywords": [
+    "boilerplate",
+    "libraries",
+    "automation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bfutema/boilerplate-libraries-automation"
+  },
+  "bugs": {
+    "url": "https://github.com/bfutema/boilerplate-libraries-automation/issues"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  }
 }
