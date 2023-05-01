@@ -1,5 +1,6 @@
 {
   "name": "boilerplate-libraries-automation",
+  "description": "Boilerplate repository for libraries creation with versioning manager automation.",
   "version": "0.0.0",
   "main": "index.js",
   "author": "Bruno Futema <bruno.futema@outlook.com>",
